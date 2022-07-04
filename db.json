@@ -1,6 +1,7 @@
 {
-    "foo": {
-        "bar": "bazz"
+    "auth": {
+        "token": "abc",
+        "refresh_token": "xyz"
     },
     "profile": {
         "name": "typicode"
