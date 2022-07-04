@@ -1,9 +1,7 @@
 {
-    "foo": [
-        {
-            "bar": "bazz"
-        }
-    ],
+    "foo": {
+        "bar": "bazz"
+    },
     "profile": {
         "name": "typicode"
     }
