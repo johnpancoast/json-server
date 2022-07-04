@@ -3,5 +3,8 @@
         {
             "bar": "bazz"
         }
-    ]
+    ],
+    "profile": {
+        "name": "typicode"
+    }
 }
